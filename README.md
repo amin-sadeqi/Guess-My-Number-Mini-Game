@@ -1,3 +1,3 @@
 # Guess my number game
 
-Guess and injoy :)
+This is a mini game to guess number :)
